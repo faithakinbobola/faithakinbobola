@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Faith! 👋
+
+<h2>Dev Projects:</h2>
+- [Quote Machine](https://github.com/faithakinbobola/quote-machine)
+<br />
+- [Foodbag](https://github.com/faithakinbobola/foodbag)
+
+
+<h2>Certifications</h2>
 
 <!--
 **faithakinbobola/faithakinbobola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
