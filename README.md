@@ -23,10 +23,22 @@ I’m especially excited to work on:
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-```html
 🌐 Languages:   HTML5, CSS3, JavaScript (ES6+), TypeScript  
 ⚙️ Frameworks:  React.js, Tailwind CSS, Vite  
 🔧 Tools:       Git & GitHub, Figma, VS Code, Chrome DevTools  
 🌱 Currently Learning: React Router, APIs integration, Web Performance Optimization
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faithakinbobola&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=faithakinbobola&theme=tokyonight" /> </p>
+
+📬 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/akinbobola-faith-17a999168"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:faithakinbobola2@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a> <a href="https://twitter.com/faithAkinDev"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a> </p>
+
+💡 Fun Facts
+🎮 I enjoy exploring how tech can make finance and daily life easier.
+
+🧠 Lifelong learner—curious, driven, and always improving.
+
+🤝 Open to collaborating on real-world beginner-friendly projects.
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=100&section=footer"/> </p>
