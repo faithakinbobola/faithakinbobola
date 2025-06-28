@@ -4,7 +4,7 @@
 </p>
 
 <!-- Bio -->
-<h3 align="center">🚀 Frontend Developer | ALX Software Engineering Learner | Passionate about Impact-Driven Software</h3>
+<h3 align="center">Frontend Developer | ALX Software Engineering Learner | Passionate about Impact-Driven Software</h3>
 
 ---
 
@@ -30,19 +30,3 @@ I’m especially excited to work on:
 ⚙️ Frameworks:  React.js, Tailwind CSS, Vite  
 🔧 Tools:       Git & GitHub, Figma, VS Code, Chrome DevTools  
 🌱 Currently Learning: React Router, APIs integration, Web Performance Optimization
-
-
-<!--
-**faithakinbobola/faithakinbobola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
